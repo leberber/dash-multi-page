@@ -1,0 +1,16 @@
+.header-component {
+    padding: 10px 30px  ;
+    background-color: #eef0f2; 
+    /* left:calc(var(--page-navigation-bar-width)); */
+    width: 100%;
+}
+
+.header-item{
+    color:black;
+}
+
+.hovered:hover, .hovered:active, .hovered:focus{
+    background-color: #374151;
+    color:white;
+    outline: red !important;
+}

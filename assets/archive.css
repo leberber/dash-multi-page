@@ -1,0 +1,13 @@
+#archive {
+    display: flex !important;
+}
+
+.archive-sidebar {
+    height: 100vh;
+    width:300px;
+}
+
+.archive-content{
+    width: 100%;
+}
+
